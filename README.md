@@ -17,7 +17,7 @@ and make a script that recognizes that colour change. For each key we set coordi
 
 (-) It doesnt feel smooth
 
-(-) You have to set your own key coordinates, if you dont have your monitor 1920x1020px
+(-) You have to set your own key coordinates, if you dont have your monitor 1920x1080px
 
 # Credits
 @Cupomaz
