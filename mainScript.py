@@ -2,6 +2,7 @@ import pyautogui as pag
 import time
 
 index = 0
+shift = False
 
 keys = {"q": (691,793), "w":(740,793), "e":(789,793), "r":(838,793),
         "t":(887,793), "z":(936,793), "u":(985,793), "i":(1034,793),
