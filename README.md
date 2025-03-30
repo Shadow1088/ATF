@@ -15,9 +15,7 @@ At the atfonline.cz theres a graphical keyboard under any text showing which key
 and make a script that recognizes that colour change. For each key we set coordinates representing it and we are done!
 
 # Pros and Cons
-(+) idk man it works
-
-(-) It doesnt feel smooth
+(+) It does what its supposed to
 
 (-) You have to set your own key coordinates, if you dont have your monitor 1920x1080px
 
