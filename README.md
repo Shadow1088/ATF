@@ -1,7 +1,7 @@
 # School project for automatical writing ATF texts at the atfonline.cz
 This program is written in pure Python and uses library pyautogui.
 
-I would never cheat in Ms. Bajerová's class. I wrote it just for my educational purposes. If anyone uses this to cheat, I am not the one to be blamed!
+This code is not to be misused. I wrote it just for my educational purposes. If anyone uses this to cheat, I am not the one to be blamed!
 
 # Need to know
 This program does not type other letters than from english alphabet. If other character occurs, write it manually.
